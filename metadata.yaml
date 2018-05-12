@@ -1,0 +1,35 @@
+_repo: Stories-about-Animals--with-Pictures-to-Match_18767
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18767-h/images/cover_spine.jpg
+creator:
+  author:
+    agent_name: Woodworth, Francis C. (Francis Channing)
+    aliases:
+    - Uncle Frank
+    - Woodworth, F. C. (Francis Channing)
+    - Thinker, Theodore
+    - Woodworth, Francis Channing
+    birthdate: 1812
+    deathdate: 1859
+    gutenberg_agent_id: '6789'
+    url: http://www.gutenberg.org/2009/agents/6789
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild
+- Children's Instructional Books
+gutenberg_issued: '2006-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Folklore'
+- !lcsh 'Animal behavior'
+- !lcc 'QL'
+title: 'Stories about Animals: with Pictures to Match'
+url: http://www.gutenberg.org/ebooks/18767
