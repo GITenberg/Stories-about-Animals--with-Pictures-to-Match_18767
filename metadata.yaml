@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '6789'
     url: http://www.gutenberg.org/2009/agents/6789
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18767#Stories-about-Animals--with-Pictures-to-Match
 gutenberg_bookshelf:
 - Animals-Wild
 - Children's Instructional Books
